@@ -14,11 +14,12 @@
 - [echarts-for-weixin](https://github.com/ecomfe/echarts-for-weixin)
 - [wsSearchView](https://github.com/mindawei/wsSearchView)
 - [weui-wxss](https://github.com/Tencent/weui-wxss/)
-- [WxSacnProgressBar](https://github.com/BiLiangLtd/WxSacnProgressBar)
+- [WxSacnProgressBar](https://github.com/BiLiangLtd/WxSacnProgressBar)\
+- [小程序控件汇总](https://github.com/qiushi123/xiaochengxu_demos)
 
 ### 代码片段
--[滚动数字](https://github.com/demi520/wxapp-animateNumber)
+- [滚动数字](https://github.com/demi520/wxapp-animateNumber)
 
 ### 框架
--[wxDraw](https://github.com/bobiscool/wxDraw ) 动画框架
--[mpvue](http://mpvue.com/)
+- [wxDraw](https://github.com/bobiscool/wxDraw ) 动画框架
+- [mpvue](http://mpvue.com/)
