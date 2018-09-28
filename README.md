@@ -10,12 +10,14 @@
 - [公司小秘书](https://github.com/cmssfe/suyanxiaomishu)
 - [my-movie](https://github.com/QinZhen001/my-movie)
 - [商城](https://github.com/liuxuanqiang/wechat-weapp-mall)
+- [表白墙](https://github.com/Anonlyy/loveWall)
 ### 控件
 - [echarts-for-weixin](https://github.com/ecomfe/echarts-for-weixin)
 - [wsSearchView](https://github.com/mindawei/wsSearchView)
 - [weui-wxss](https://github.com/Tencent/weui-wxss/)
 - [WxSacnProgressBar](https://github.com/BiLiangLtd/WxSacnProgressBar)\
 - [小程序控件汇总](https://github.com/qiushi123/xiaochengxu_demos)
+- [上拉下拉](https://github.com/CitrusHan/MyJobs_WeChat)
 
 ### 代码片段
 - [滚动数字](https://github.com/demi520/wxapp-animateNumber)
