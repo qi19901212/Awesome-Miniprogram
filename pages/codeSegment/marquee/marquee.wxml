@@ -1,0 +1,8 @@
+<view class='page'>
+  <view class='scroll_view_border'>
+    <view class="srcoll_view" bindtap="textclick">原文链接https://blog.csdn.net/qq_34262521/article/details/79354816!</view>
+  </view>
+  <view class="button-sp-area  page__bd_spacing">
+    <button class="weui-btn mini-btn" type="primary"  plain="true" bindtap='Clipboard' size="mini" >复制链接</button>
+  </view>
+</view>

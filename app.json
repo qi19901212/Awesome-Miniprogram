@@ -1,0 +1,47 @@
+{
+  "pages": [
+    "pages/project/project",
+    "pages/component/component",
+    "pages/frame/frame",
+    "pages/codeSegment/codeSegment",
+    "pages/codeSegment/marquee/marquee"
+  ],
+  "window": {
+    "backgroundTextStyle": "dark",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "例子",
+    "navigationBarTextStyle": "black"
+  },
+  "tabBar": {
+    "color": "#7A7E83",
+    "selectedColor": "#3cc51f",
+    "borderStyle": "black",
+    "backgroundColor": "#ffffff",
+    "list": [
+      {
+        "pagePath": "pages/project/project",
+        "iconPath": "images/tab.png",
+        "selectedIconPath": "images/tab_normal.png",
+        "text": "项目"
+      },
+      {
+        "pagePath": "pages/component/component",
+        "iconPath": "images/tab.png",
+        "selectedIconPath": "images/tab_normal.png",
+        "text": "组件"
+      },
+      {
+        "pagePath": "pages/codeSegment/codeSegment",
+        "iconPath": "images/tab.png",
+        "selectedIconPath": "images/tab_normal.png",
+        "text": "代码片段"
+      },
+      {
+        "pagePath": "pages/frame/frame",
+        "iconPath": "images/tab.png",
+        "selectedIconPath": "images/tab_normal.png",
+        "text": "框架"
+      }
+    ]
+  }
+}

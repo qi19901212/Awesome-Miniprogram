@@ -1,0 +1,28 @@
+.srcoll_view {
+  position: absolute;
+  top: 0rpx;
+  height: 100rpx;
+  font-size: 30rpx;
+  white-space: nowrap;
+  line-height: 100rpx;
+  color: #00bff3;
+  animation: myfirst 20s linear infinite;
+}
+
+@keyframes myfirst {
+  0% {
+    margin-left: 750rpx;
+  }
+
+  100% {
+    margin-left: -1500rpx;
+  }
+}
+
+.scroll_view_border {
+  position: relative;
+  width: 100%;
+  background: rgba(0, 0, 0, 0.2);
+  height: 100rpx;
+  overflow: hidden;
+}

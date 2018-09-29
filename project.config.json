@@ -1,0 +1,49 @@
+{
+	"description": "项目配置文件。",
+	"setting": {
+		"urlCheck": false,
+		"es6": true,
+		"postcss": true,
+		"minified": true,
+		"newFeature": true
+	},
+	"compileType": "miniprogram",
+	"libVersion": "2.3.0",
+	"appid": "wx3fb31f2a839e4c38",
+	"projectname": "Awesome-Miniprogram",
+	"condition": {
+		"search": {
+			"current": -1,
+			"list": []
+		},
+		"conversation": {
+			"current": -1,
+			"list": []
+		},
+		"plugin": {
+			"current": -1,
+			"list": []
+		},
+		"game": {
+			"current": -1,
+			"list": []
+		},
+		"miniprogram": {
+			"current": 1,
+			"list": [
+				{
+					"id": 0,
+					"name": "代码片段",
+					"pathName": "pages/codeSegment/codeSegment",
+					"query": ""
+				},
+				{
+					"id": -1,
+					"name": "跑马灯",
+					"pathName": "pages/codeSegment/marquee/marquee",
+					"query": ""
+				}
+			]
+		}
+	}
+}
