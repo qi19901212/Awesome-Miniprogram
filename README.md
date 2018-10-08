@@ -9,6 +9,7 @@
 - [公司小秘书](https://github.com/cmssfe/suyanxiaomishu)
 - [my-movie](https://github.com/QinZhen001/my-movie)
 - [商城](https://github.com/liuxuanqiang/wechat-weapp-mall)
+- [商城EastWorld](https://github.com/EastWorld/wechat-app-mall)
 - [表白墙](https://github.com/Anonlyy/loveWall)
 
 ### 控件
