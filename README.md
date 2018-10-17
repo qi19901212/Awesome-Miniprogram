@@ -10,6 +10,7 @@
 - [my-movie](https://github.com/QinZhen001/my-movie)
 - [商城](https://github.com/liuxuanqiang/wechat-weapp-mall)
 - [商城EastWorld](https://github.com/EastWorld/wechat-app-mall)
+- [商城weixin-app-shop](https://gitee.com/jeecg/weixin-app-shop)
 - [表白墙](https://github.com/Anonlyy/loveWall)
 
 ### 控件
