@@ -24,7 +24,7 @@
 
 ### 代码片段
 - [滚动数字](https://github.com/demi520/wxapp-animateNumber)
-
+- [跑马灯控件](https://github.com/qi19901212/Awesome-Miniprogram/tree/master/pages/codeSegment/marquee)
 ### 框架
 - [wxDraw](https://github.com/bobiscool/wxDraw ) 动画框架
 - [mpvue](http://mpvue.com/) 
