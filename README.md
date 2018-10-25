@@ -16,16 +16,21 @@
 
 ### 控件
 - [echarts-for-weixin](https://github.com/ecomfe/echarts-for-weixin)
+   >  ECharts小程序版Demo,快速开发图表
 - [wsSearchView](https://github.com/mindawei/wsSearchView)
+   > 搜索框组件
 - [weui-wxss](https://github.com/Tencent/weui-wxss/)
+   > 一套同微信原生视觉体验一致的基础样式库
 - [WxSacnProgressBar](https://github.com/BiLiangLtd/WxSacnProgressBar)
+   > 圆形进度组件
 - [小程序控件汇总](https://github.com/qiushi123/xiaochengxu_demos)
 - [上拉下拉](https://github.com/CitrusHan/MyJobs_WeChat)
 - [自定义下拉刷新](https://github.com/the-liuchao/RefreshDemo)
+- [跑马灯控件](https://github.com/qi19901212/Awesome-Miniprogram/tree/master/pages/codeSegment/marquee)
 
 ### 代码片段
 - [滚动数字](https://github.com/demi520/wxapp-animateNumber)
-- [跑马灯控件](https://github.com/qi19901212/Awesome-Miniprogram/tree/master/pages/codeSegment/marquee)
+
 ### 框架
 - [wxDraw](https://github.com/bobiscool/wxDraw ) 动画框架
 - [mpvue](http://mpvue.com/) 
