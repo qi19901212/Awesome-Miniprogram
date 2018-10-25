@@ -2,6 +2,7 @@
 收藏可供借鉴的开源小程序项目 
 ### 项目
 - [仿滴滴出行](https://github.com/QinZhen001/didi)
+- [仿QQ音乐](https://github.com/julytian/qqMusicPlayer)
 - [天气预报小程序](https://github.com/mindawei/weather)
 - [古诗文小助手](https://github.com/johnnyzhang1992/gushi_lite)
 - [武侯的猫](https://github.com/wuhou123/wxxcx#%E4%BD%93%E9%AA%8C%E5%90%A7) 
