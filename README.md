@@ -27,12 +27,11 @@
 - [上拉下拉](https://github.com/CitrusHan/MyJobs_WeChat)
 - [自定义下拉刷新](https://github.com/the-liuchao/RefreshDemo)
 - [跑马灯控件](https://github.com/qi19901212/Awesome-Miniprogram/tree/master/pages/codeSegment/marquee)
-- [小程序折线图柱状图](https://github.com/fuxingkai/frankui-weapp)\
+- [小程序折线图柱状图](https://github.com/fuxingkai/frankui-weapp)
 - [charts](https://github.com/xiaolin3303/wx-charts)
 - [小程序生成二维码非小程序二维码](https://github.com/tomfriwel/weapp-qrcode)
 ### 代码片段
 - [滚动数字](https://github.com/demi520/wxapp-animateNumber)
-- [小程序生成二维码](https://github.com/tomfriwel/weapp-qrcode)
 
 ### 框架
 - [wxDraw](https://github.com/bobiscool/wxDraw ) 动画框架
