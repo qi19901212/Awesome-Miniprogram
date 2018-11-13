@@ -13,6 +13,7 @@
 - [商城EastWorld](https://github.com/EastWorld/wechat-app-mall)
 - [商城weixin-app-shop](https://gitee.com/jeecg/weixin-app-shop)
 - [表白墙](https://github.com/Anonlyy/loveWall)
+- [wxParse-微信小程序富文本解析自定义组件，支持HTML及markdown解析](https://github.com/icindy/wxParse)
 
 ### 控件
 - [echarts-for-weixin](https://github.com/ecomfe/echarts-for-weixin)
