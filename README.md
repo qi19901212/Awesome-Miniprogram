@@ -15,6 +15,7 @@
 - [表白墙](https://github.com/Anonlyy/loveWall)
 - [wxParse-微信小程序富文本解析自定义组件，支持HTML及markdown解析](https://github.com/icindy/wxParse)
 - [v2ex客户端-gezoo版本](https://github.com/gezoo/v2ex-wechat-miniprogram)
+- [垃圾分类](https://github.com/qi19901212/Garbage)
 
 ### 控件
 - [echarts-for-weixin](https://github.com/ecomfe/echarts-for-weixin)
@@ -38,3 +39,6 @@
 ### 框架
 - [wxDraw](https://github.com/bobiscool/wxDraw ) 动画框架
 - [mpvue](http://mpvue.com/) 
+
+### 小程序云管理
+- [GarbageAdmin](https://github.com/qi19901212/GarbageAdmin)
