@@ -16,7 +16,7 @@
 - [wxParse-微信小程序富文本解析自定义组件，支持HTML及markdown解析](https://github.com/icindy/wxParse)
 - [v2ex客户端-gezoo版本](https://github.com/gezoo/v2ex-wechat-miniprogram)
 - [垃圾分类](https://github.com/qi19901212/Garbage)
-- [小程序云开发的博客]（https://github.com/CavinCao/mini-blog）
+- [小程序云开发的博客](https://github.com/CavinCao/mini-blog)
 
 ### 控件
 - [echarts-for-weixin](https://github.com/ecomfe/echarts-for-weixin)
