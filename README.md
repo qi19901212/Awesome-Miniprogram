@@ -41,8 +41,9 @@
 - [wxDraw](https://github.com/bobiscool/wxDraw ) 动画框架
 - [mpvue](http://mpvue.com/) 
 - [ColorUI](https://github.com/weilanwl/ColorUI) UI 框架
+- [ThorUI](https://github.com/dingyong0214/ThorUI-uniapp) UI 框架
 
 ### 小程序云管理
 - [GarbageAdmin](https://github.com/qi19901212/GarbageAdmin) 
-- [ThorUI](https://github.com/dingyong0214/ThorUI-uniapp)
+
 
