@@ -44,3 +44,5 @@
 
 ### 小程序云管理
 - [GarbageAdmin](https://github.com/qi19901212/GarbageAdmin) 
+- [ThorUI](https://github.com/dingyong0214/ThorUI-uniapp)
+
