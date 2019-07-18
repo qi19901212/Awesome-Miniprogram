@@ -17,6 +17,7 @@
 - [v2ex客户端-gezoo版本](https://github.com/gezoo/v2ex-wechat-miniprogram)
 - [垃圾分类](https://github.com/qi19901212/Garbage)
 - [小程序云开发的博客](https://github.com/CavinCao/mini-blog)
+- [BookChat - 通用的书籍阅读微信小程序](https://github.com/TruthHun/BookChat)
 
 ### 控件
 - [echarts-for-weixin](https://github.com/ecomfe/echarts-for-weixin)
