@@ -19,6 +19,7 @@
 - [小程序云开发的博客](https://github.com/CavinCao/mini-blog)
 - [BookChat - 通用的书籍阅读微信小程序](https://github.com/TruthHun/BookChat)
 - [nideshop-mini-program --仿网易严选商城](https://github.com/tumobi/nideshop-mini-program)
+- [WeChat-ColorUI-shop-templet UI 商城模板](https://github.com/itianc/WeChat-ColorUI-shop-templet)
 
 ### 控件
 - [echarts-for-weixin](https://github.com/ecomfe/echarts-for-weixin)
