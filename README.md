@@ -21,6 +21,7 @@
 - [nideshop-mini-program --仿网易严选商城](https://github.com/tumobi/nideshop-mini-program)
 - [WeChat-ColorUI-shop-templet UI 商城模板](https://github.com/itianc/WeChat-ColorUI-shop-templet)
 - [二手书源码](https://github.com/xuhuai66/used-book-pro)
+- [WordPress的微信小程序](https://github.com/longwenjunjie/jiangqie_kafei)
 
 ### 控件
 - [echarts-for-weixin](https://github.com/ecomfe/echarts-for-weixin)
