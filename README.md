@@ -39,6 +39,11 @@
 - [小程序折线图柱状图](https://github.com/fuxingkai/frankui-weapp)
 - [charts](https://github.com/xiaolin3303/wx-charts)
 - [小程序生成二维码非小程序二维码](https://github.com/tomfriwel/weapp-qrcode)
+
+### 图表
+-[uCharts](https://gitee.com/uCharts/uCharts)
+-[wx-f2](https://github.com/antvis/wx-f2)
+-[echart](https://github.com/ecomfe/echarts-for-weixin)
 ### 代码片段
 - [滚动数字](https://github.com/demi520/wxapp-animateNumber)
 
